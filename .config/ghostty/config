@@ -1,0 +1,10 @@
+term = xterm-256color
+
+quit-after-last-window-closed = true
+
+font-size = 16
+
+background-opacity = 0.8
+background-blur-radius = 20
+
+mouse-hide-while-typing = true
