@@ -31,8 +31,23 @@ cd .dotfiles
 stow .
 ```
 
-## create ssh keys
+## ssh key erstellen
 ```
 ssh-keygen -t rsa
 pbcopy < ~/.ssh/id_rsa.pub
 ```
+
+## Raycast konfigurieren
+- Raycast starten, dem setup folgen und *replace spotlight keyboard shotcut*
+- Allen Zugriff erlauben.
+- Raycast öffnen → Einstellungen
+    - bei Pro einloggen.
+    - in Advances, Hyperkey = F12
+
+## Zen einrichten
+- Starten
+- Einstellungen → Sync → einloggen
+- Leesezeichenleiste:
+    - Einstellungen → Aussehen → Mehrere Symbolleisten
+    - Oben rechts, drei Punkte → Lesezeichen → Lesezeichenleiste einblenden
+    - Einstellungen → Aussehen → Einzelne Symbolleiste
