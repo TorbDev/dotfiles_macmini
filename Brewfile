@@ -8,6 +8,7 @@ cask "vscodium"
 cask "zen"
 cask "obsidian"
 cask "claude-code"
+cask "bitwarden"
 
 # Terminal
 cask "ghostty"
